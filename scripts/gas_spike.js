@@ -101,3 +101,10 @@ async function call() {
 }
 
 call();
+
+
+
+
+
+
+// gas and transaction mgmt
